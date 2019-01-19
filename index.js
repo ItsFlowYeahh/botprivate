@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const client = new Discord.Client()
 
 var prefix = '*';
-var token = 'NTMxNzQ3OTA0NjI1NDQyODI4.DxeEiQ.bxl43iRTtNneGhqwGtgS8t1o0Kg' //lien du Bot : https://discordapp.com/oauth2/authorize?client_id=531747904625442828&scope=bot&permissions=8
+var token = 'NTMxNzQ3OTA0NjI1NDQyODI4.DyP95Q.jMPHmJIrhudGZft-GPYdniwIR2c' //lien du Bot : https://discordapp.com/oauth2/authorize?client_id=531747904625442828&scope=bot&permissions=8
 
 client.login(token)
 
